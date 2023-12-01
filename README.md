@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @quillnova
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on nothing right now, since i'm still learning but maybe on designing games in the future
-
+- 👋 Hi, I’m quillnova
+- 🌱 I’m currently learning DS & ML 
+- 💞️ I’m looking to collaborate and open to mentors, since i'm still learning.
+- 🌟 Welcome to my portfolio. Hopefully will turn my portfolio green soon.
 
 <!---
 quillnova/quillnova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
